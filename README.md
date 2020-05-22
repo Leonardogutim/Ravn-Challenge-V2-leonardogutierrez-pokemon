@@ -13,4 +13,5 @@ les dejo Screens para poder previzualizarlo
 ## Para correr el la api
 solo deve colocar  .npm start
 
-
+## Para tomar en cuenta
+NO esperaba subir este repositorio pero, es mi primera ves utilizando tegnologias agenas a React, este es el proyecto que he podido realizar
